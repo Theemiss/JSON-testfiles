@@ -1,25 +1,38 @@
 [{
-        "name": "Meowsy",
-        "species": "cat",
-        "foods": {
-            "likes": ["tuna", "catnip"],
-            "dislikes": ["ham", "zucchini"]
-        }
+        "price": "550,000 DT",
+        "title": "Farm for Sale",
+        "info": "info",
+        "date": "5 Days ago",
+        "place": "Slimane Nabeul",
+        "sellername": "Mohamed",
+        "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
     },
     {
-        "name": "Barky",
-        "species": "dog",
-        "foods": {
-            "likes": ["bones", "carrots"],
-            "dislikes": ["tuna"]
-        }
+        "price": "400,000 DT",
+        "title": "shlka for Sale",
+        "info": "info",
+        "date": "2 Days ago",
+        "place": " Nabeul",
+        "sellername": "ali",
+        "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
     },
     {
-        "name": "Purrpaws",
-        "species": "cat",
-        "foods": {
-            "likes": ["mice"],
-            "dislikes": ["cookies"]
-        }
+        "price": "550,000 DT",
+        "title": "khraa for Sale",
+        "info": "info",
+        "date": "10 Days ago",
+        "place": " gabes",
+        "sellername": "aziz",
+        "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },
+    {
+        "price": "550,000 DT",
+        "title": "khraa for Sale",
+        "info": "info",
+        "date": "10 Days ago",
+        "place": " gabes",
+        "sellername": "aziz",
+        "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
     }
+
 ]
