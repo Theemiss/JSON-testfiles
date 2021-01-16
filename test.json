@@ -6,7 +6,10 @@
         "place": "Slimane Nabeul",
         "sellername": "Mohamed",
         "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        "sqt": "120"
+        "sqt": "120",
+        "link": "#"
+
+
 
     },
     {
@@ -17,7 +20,9 @@
         "place": " Nabeul",
         "sellername": "ali",
         "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        "sqt": "50"
+        "sqt": "50",
+        "link": "#"
+
 
     },
     {
@@ -28,7 +33,9 @@
         "place": " gabes",
         "sellername": "aziz",
         "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        "sqt": "40"
+        "sqt": "40",
+        "link": "#"
+
 
     },
     {
@@ -39,7 +46,9 @@
         "place": " libya",
         "sellername": "aziz",
         "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        "sqt": "10"
+        "sqt": "10",
+        "link": "#"
+
 
     },
     {
@@ -50,7 +59,9 @@
         "place": " libya",
         "sellername": "bouzidi",
         "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        "sqt": "220"
+        "sqt": "220",
+        "link": "#"
+
     }
 
 ]
