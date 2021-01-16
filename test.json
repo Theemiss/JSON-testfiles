@@ -5,16 +5,20 @@
         "date": "5 Days ago",
         "place": "Slimane Nabeul",
         "sellername": "Mohamed",
-        "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+        "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+        "sqt": "120"
+
     },
     {
-        "price": "400,000 DT",
+        "price": "230,000 DT",
         "title": "shlka for Sale",
         "info": "info",
         "date": "2 Days ago",
         "place": " Nabeul",
         "sellername": "ali",
-        "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+        "thumbPic": "https://images.freeimages.com/images/large-previews/867/volcanic-mt-ngauruhoe-1378772.jpg",
+        "sqt": "50"
+
     },
     {
         "price": "550,000 DT",
@@ -23,16 +27,30 @@
         "date": "10 Days ago",
         "place": " gabes",
         "sellername": "aziz",
-        "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+        "thumbPic": "https://images.freeimages.com/images/large-previews/6c9/sky-1390196.jpg",
+        "sqt": "40"
+
     },
     {
-        "price": "550,000 DT",
-        "title": "khraa for Sale",
+        "price": "120,000 DT",
+        "title": "batinda for Sale",
         "info": "info",
-        "date": "10 Days ago",
-        "place": " gabes",
+        "date": "15 Days ago",
+        "place": " libya",
         "sellername": "aziz",
-        "thumbPic": "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+        "thumbPic": "https://images.freeimages.com/images/large-previews/25d/eagle-1523807.jpg",
+        "sqt": "10"
+
+    },
+    {
+        "price": "120,000 DT",
+        "title": "hlima for Sale",
+        "info": "info",
+        "date": "2 Days ago",
+        "place": " libya",
+        "sellername": "bouzidi",
+        "thumbPic": "https://images.freeimages.com/images/large-previews/25d/eagle-1523807.jpg",
+        "sqt": "220"
     }
 
 ]
